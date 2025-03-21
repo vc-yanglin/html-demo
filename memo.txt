@@ -1,0 +1,9 @@
+ctrl+shift+p => 開啟設定
+
+git clone https://github.com/jerrytw0923/html-demo
+git clone https://github.com/vc-yanglin/html-demo
+
+HTML特殊字符編碼
+https://www.ifreesite.com/html-entities.htm
+
+https://code.visualstudio.com/docs/languages/html
