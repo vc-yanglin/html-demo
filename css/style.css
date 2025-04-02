@@ -2,14 +2,15 @@
 .title{
     color:rgb(226, 141, 43);     
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(255, 219, 194);
+    /*background-color: rgb(255, 219, 194);
+    border: 1px solid rgb(214, 131, 131);*/    
     /* 1rem=>16px */
     font-size: 2rem; 
     display: inline-block;
     width: 100%;
     margin: 10px 20px;
     padding: 6px;
-    border: 1px solid rgb(214, 131, 131);
+
     border-radius: 6px;
 }
 
